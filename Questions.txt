@@ -1,4 +1,4 @@
-**Questions related to projects-**
+**Questions related to projects**
 
 Basic:
 Retrieve the total number of orders placed.
